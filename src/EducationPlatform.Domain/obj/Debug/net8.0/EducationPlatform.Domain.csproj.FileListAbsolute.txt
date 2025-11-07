@@ -1,0 +1,12 @@
+/workspace/src/EducationPlatform.Domain/bin/Debug/net8.0/EducationPlatform.Domain.deps.json
+/workspace/src/EducationPlatform.Domain/bin/Debug/net8.0/EducationPlatform.Domain.dll
+/workspace/src/EducationPlatform.Domain/bin/Debug/net8.0/EducationPlatform.Domain.pdb
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.AssemblyInfoInputs.cache
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.AssemblyInfo.cs
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.csproj.CoreCompileInputs.cache
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.sourcelink.json
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.dll
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/refint/EducationPlatform.Domain.dll
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/EducationPlatform.Domain.pdb
+/workspace/src/EducationPlatform.Domain/obj/Debug/net8.0/ref/EducationPlatform.Domain.dll

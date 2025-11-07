@@ -1,0 +1,16 @@
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.csproj.AssemblyReference.cache
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.AssemblyInfoInputs.cache
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.AssemblyInfo.cs
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.csproj.CoreCompileInputs.cache
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.sourcelink.json
+/workspace/src/EducationPlatform.Application/bin/Debug/net8.0/EducationPlatform.Application.deps.json
+/workspace/src/EducationPlatform.Application/bin/Debug/net8.0/EducationPlatform.Application.dll
+/workspace/src/EducationPlatform.Application/bin/Debug/net8.0/EducationPlatform.Application.pdb
+/workspace/src/EducationPlatform.Application/bin/Debug/net8.0/EducationPlatform.Domain.dll
+/workspace/src/EducationPlatform.Application/bin/Debug/net8.0/EducationPlatform.Domain.pdb
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.csproj.CopyComplete
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.dll
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/refint/EducationPlatform.Application.dll
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/EducationPlatform.Application.pdb
+/workspace/src/EducationPlatform.Application/obj/Debug/net8.0/ref/EducationPlatform.Application.dll
